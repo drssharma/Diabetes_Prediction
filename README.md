@@ -9,5 +9,5 @@ This dataset is originally from Kaggle.The datasets consists of several medical 
 #### Steps Followed:
 - Data Analysis: Performed various operations to get more information about the data
 - Data Standardization: Data had a lot variation, so to create a consistency and to make the business easy i standardized the data.
-- Machine Learning: Developed SVC machine learning models and obtained train data accuracy of 78% and test data accuracy of 72%. 
+- Machine Learning: Developed SVC machine learning models and obtained train data accuracy of 78% and test data accuracy of 77%. 
 - Predictive Analysis: I used Prediction analysis to predict whether any patient is diabetic or not.
