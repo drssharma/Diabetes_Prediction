@@ -10,4 +10,5 @@ This dataset is originally from Kaggle.The datasets consists of several medical 
 - Data Analysis: Performed various operations to get more information about the data
 - Data Standardization: Data had a lot variation, so to create a consistency and to make the business easy i standardized the data.
 - Machine Learning: Developed SVC machine learning models and obtained train data accuracy of 78% and test data accuracy of 77%. 
-- Predictive Analysis: I used Prediction analysis to predict whether any patient is diabetic or not.
+- Predictive Analysis: I created a preditive model to predict whether a patient is diabetic or not. 
+- Accuracy Score: From Confusion matrix, I got accuracy score of 92.97%. 
